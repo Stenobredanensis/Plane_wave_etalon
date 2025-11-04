@@ -1,4 +1,3 @@
-numpy
-matplotlib
-notebook
-ipykernel
+﻿jupyterlab
+numpy>=2.1
+matplotlib>=3.9

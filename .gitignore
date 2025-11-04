@@ -1,7 +1,21 @@
-# venv & Python-Kram
-.venv/
+﻿# Python
 __pycache__/
 *.pyc
+*.pyo
+*.pyd
+*.so
+.venv/
+.env
+.env.*
 
 # Jupyter
 .ipynb_checkpoints/
+
+# OS / misc
+.DS_Store
+Thumbs.db
+
+# Build / dist
+build/
+dist/
+*.egg-info/
